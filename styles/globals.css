@@ -1,0 +1,86 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: #f08e05;
+  background-image: url("https://www.transparenttextures.com/patterns/cross-scratches.png");
+
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  /*border-top: 1px solid #eaeaea;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f08e05;
+  /*background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");*/
+
+
+
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.PCont {
+  background-color: #f08e05;
+  background-image: url("https://www.transparenttextures.com/patterns/cross-scratches.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+
+nav {
+  background-color: #f08e05;
+  /*background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");*/
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.ProfileJumbo {
+  background-color: #f08e05;
+  background-image: url("https://www.transparenttextures.com/patterns/cross-scratches.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+/*.btn:hover{
+  background-color: #e69900;
+  background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");
+}*/
+
+.home {
+  display: flex;
+  justify-content: center;
+  padding-top: 15%;
+}
+
+.aboutOne {
+  background-color: #f08e05;
+  background-image: url("https://www.transparenttextures.com/patterns/cross-scratches.png");
+}
+
+.cardHighlight{
+  box-sizing: border-box;
+  height: 100%;
+  padding-bottom: 5em;
+
+}
+
+.recordsArr {
+  background-color: white;
+}
