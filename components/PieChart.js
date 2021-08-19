@@ -10,7 +10,7 @@ export default function PieChart() {
  
   useEffect(() => {
     fetch(
-      "http://localhost:8000/api/users/allTransactions",
+      "https://enigmatic-inlet-58613.herokuapp.com/api/users/allTransactions",
       {
         headers: {
           Authorization: `Bearer ${localStorage.getItem("token")}`,

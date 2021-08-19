@@ -4,7 +4,7 @@ import { Navbar, Nav } from "react-bootstrap";
 //import Link component from nextjs
 import Link from "next/link";
 
-import UserContext from "../userContext";
+import UserContext from "./../UserContext";
 
 export default function NavBar() {
   const { user } = useContext(UserContext);
